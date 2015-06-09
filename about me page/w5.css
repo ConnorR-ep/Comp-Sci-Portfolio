@@ -1,0 +1,326 @@
+body{
+    background-color:green;
+}        
+#title{
+    color:white;
+    border: 4px solid white;
+    border-radius:5px;
+    position:absolute;
+    margin-left:1000px;
+    
+}
+
+h1{
+    margin:6px 6px 6px 6px;
+    
+}
+p{
+    margin:6px 6px 6px 2px;
+}
+
+#guy{
+    position: absolute;
+    left:50px;
+    opacity:100;
+    
+}
+table{
+    color: white;
+    border: 2px;
+    outline: 5px solid white;
+    
+}
+
+
+#leftWall{
+    color:white;
+    outline: 2px solid white;       
+    width:300px;
+    height:10px;
+    background-color: white;
+    position: fixed;
+    top: 275px;
+    right:1000px;
+}
+#leftWall1{
+    color:white;
+    outline: 2px solid white;       
+    width:390px;
+    height:10px;
+    background-color: white;
+    position: fixed;
+    top: 425px;
+    right:900px;
+}
+#leftWall2{
+    color:white;
+    outline: 2px solid white;       
+    width:400px;
+    height:10px;
+    background-color: white;
+    position: fixed;
+    top: 480px;
+    right:850px;
+}
+#leftWall3{
+    color:white;
+    outline: 2px solid white;       
+    width:510px;
+    height:10px;
+    background-color: white;
+    position: fixed;
+    top: 540px;
+    right: 793px;
+}
+#leftWall4{
+    color:white;
+    outline: 2px solid white;       
+    width:150px;
+    height:10px;
+    background-color: white;
+    position: fixed;
+    top: 175px;
+    right: 1010px;
+}
+#leftWall5{
+    color:white;
+    outline: 2px solid white;       
+    width:500px;
+    height:10px;
+    background-color: white;
+    position: fixed;
+    top: 53px;
+    right: 660px;
+}
+#leftWall6{
+    color:white;
+    outline: 2px solid white;       
+    width:350px;
+    height:10px;
+    background-color: white;
+    position: fixed;
+    top: 300px;
+    right: 380px;
+}
+#topWall{
+    color:white;
+    outline: 2px solid white;       
+    width:10px;
+    height:50px;
+    background-color: white;
+    position: fixed;
+    top: 175px;
+    right:1000px;
+}
+#topWall1{
+    color:white;
+    outline: 2px solid white;       
+    width:10px;
+    height:65px;
+    background-color: white;
+    position: fixed;
+    top: 370px;
+    right:1100px;
+}
+#topWall2{
+    color:white;
+    outline: 2px solid white;       
+    width:10px;
+    height:300px;
+    background-color: white;
+    position: fixed;
+    top: 180px;
+    right:850px;
+}
+#topWall3{
+    color:white;
+    outline: 2px solid white;       
+    width:10px;
+    height:440px;
+    background-color: white;
+    position: fixed;
+    top: 110px;
+    right:790px;
+}
+#topWall4{
+    color:white;
+    outline: 2px solid white;       
+    width:10px;
+    height:120px;
+    background-color: white;
+    position: fixed;
+    top: 65px;
+    right:1150px;
+}
+#topWall5{
+    color:white;
+    outline: 2px solid white;       
+    width:10px;
+    height:150px;
+    background-color: white;
+    position: fixed;
+    top: 160px;
+    right:725px;
+}
+#topWall6{
+    color:white;
+    outline: 2px solid white;       
+    width:10px;
+    height:220px;
+    background-color: white;
+    position: fixed;
+    top: 300px;
+    right:380px;
+}
+#bottomWall{
+    color:white;
+    outline: 2px solid white;       
+    width:10px;
+    height:100px;
+    background-color: white;
+    position: fixed;
+    top: 280px;
+    right:1000px;
+}
+#bottomWall1{
+    color:white;
+    outline: 2px solid white;       
+    width:10px;
+    height:100px;
+    background-color: white;
+    position: fixed;
+    top: 325px;
+    right:900px;
+}
+#bottomWall2{
+    color:white;
+    outline: 2px solid white;       
+    width:10px;
+    height:100px;
+    background-color: white;
+    position: fixed;
+    top: 225px;
+    right:900px;
+}
+#bottomWall3{
+    color:white;
+    outline: 2px solid white;       
+    width:10px;
+    height:115px;
+    background-color: white;
+    position: fixed;
+    top:425px;
+    right:1293px;
+}
+#bottomWall4{
+    color:white;
+    outline: 2px solid white;       
+    width:10px;
+    height:115px;
+    background-color: white;
+    position: fixed;
+    top:53px;
+    right:650px;
+}
+#bottomWall5{
+    color:white;
+    outline: 2px solid white;       
+    width:10px;
+    height:160px;
+    background-color: white;
+    position: fixed;
+    top:520px;
+    right:670px;
+}
+#bottomWall6{
+    color:white;
+    outline: 2px solid white;       
+    width:10px;
+    height:160px;
+    background-color: white;
+    position: fixed;
+    top:520px;
+    right:790px;
+}
+#rightWall{
+    color:white;
+    outline: 2px solid white;       
+    width:300px;
+    height:10px;
+    background-color: white;
+    position: fixed;
+    top: 225px;
+    right:1000px;
+    
+}
+#rightWall1{
+    color:white;
+    outline: 2px solid white;       
+    width:100px;
+    height:10px;
+    background-color: white;
+    position: fixed;
+    top: 370px;
+    right:1000px;
+}
+#rightWall2{
+    color:white;
+    outline: 2px solid white;       
+    width:100px;
+    height:10px;
+    background-color: white;
+    position: fixed;
+    top: 175px;
+    right:900px;
+}
+#rightWall3{
+    color:white;
+    outline: 2px solid white;       
+    width:75px;
+    height:10px;
+    background-color: white;
+    position: fixed;
+    top: 175px;
+    right:850px;
+    
+}
+#rightWall4{
+    color:white;
+    outline: 2px solid white;       
+    width:300px;
+    height:10px;
+    background-color: white;
+    position: fixed;
+    top: 110px;
+    right:800px;
+}
+#rightWall5{
+    color:white;
+    outline: 2px solid white;       
+    width:75px;
+    height:10px;
+    background-color: white;
+    position: fixed;
+    top: 158px;
+    right: 660px;
+}
+#rightWall6{
+    color:white;
+    outline: 2px solid white;       
+    width:300px;
+    height:10px;
+    background-color: white;
+    position: fixed;
+    top: 400px;
+    right: 500px;
+}
+#rightWall7{
+    color:white;
+    outline: 2px solid white;       
+    width:300px;
+    height:10px;
+    background-color: white;
+    position: fixed;
+    top: 510px;
+    right: 380px;
+}

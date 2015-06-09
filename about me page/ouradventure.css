@@ -1,0 +1,154 @@
+body {background-image: url("http://www.loschavezmexicangrille.com/wp-content/uploads/2013/01/website-background-full-hd-backgrounds-vintage-red-661979.jpg");
+}
+
+h1{background-color:#993333;border:6px solid black;text-align:center;text-shadow: 3px 3px 3px #003399;margin-left:175px;margin-right:175px;border-radius:15px;}
+
+h6{margin-top:10px;margin-bottom:10px;}
+
+button{margin-bottom:50px;margin-left:310px;}
+h1 img{height:250px;width:200px;}
+#myImg{margin-left:290px;}
+#console{background-color:gray;border:3px solid black;}
+
+
+
+
+
+
+#navbar {
+	
+	
+	right:7%;
+	margin-left: 354px;
+	position: fixed;
+	height: 200px;
+	width: 150px;
+	border: 2px solid black;
+	opacity: 0.8;
+background-color: #993333;
+	display:inline-block;
+
+	margin-top: -10;}
+
+
+
+#one{
+	height: 20px;
+	width: 100px;
+	border: 2px solid black;
+	background-color: #CCFF33;
+	border-radius: 100px;
+}
+
+#one{ transition:all .8s ease;} #one:hover{background-color:#336666;}
+
+#two{
+	height: 20px;
+	width: 100px;
+	border: 2px solid black;
+	background-color: #CCFF33 ;
+	border-radius: 100px;
+}
+#two{ transition:all .8s ease;} #two:hover{background-color:#336666;}
+
+
+#three{
+	height: 20px;
+	width: 100px;
+	border: 2px solid black;
+	background-color: #CCFF33 ;
+	border-radius: 100px;
+}
+
+#three{ transition:all .8s ease;} #three:hover{background-color:#336666;}
+
+#four{
+	height: 20px;
+	width: 100px;
+	border: 2px solid black;
+	background-color: #CCFF33 ;
+	border-radius: 100px;
+}
+#four{ transition:all .8s ease;} #four:hover{background-color:#336666;}
+
+
+
+
+ 
+
+
+ #five {
+	height: 500px;
+	width: 1200px;
+    font-color: white;
+	border: 2px solid black;
+	border-radius: 5px;
+	background-color: #006600;
+float: right}
+	
+	a {color:#000033; text-decoration:none}
+p { text-align: left}
+a:hover {color:#CC3300}
+
+
+
+
+h1 {border: 8px solid black;
+background-color: #993333;
+opacity: 0.8;}
+
+
+ #six {
+	height: 500px;
+	width: 1000px;
+    font-color: white;
+	border: 2px solid black;
+	border-radius: 5px;
+	background-color:  #993333;
+float: left}
+
+   
+ #calc{
+	height: 20px;
+	width: 100px;
+	border: 2px solid black;
+	background-color: #CCFF33;
+	border-radius: 100px;
+}
+
+#calc{ transition:all .8s ease;} #calc:hover{background-color:#336666;}
+    
+ #adventure{
+	height: 20px;
+	width: 100px;
+	border: 2px solid black;
+	background-color: #CCFF33;
+	border-radius: 100px;
+}
+
+#adventure{ transition:all .8s ease;} #adventure:hover{background-color:#336666;}
+
+
+   
+ #game{
+	height: 20px;
+	width: 100px;
+	border: 2px solid black;
+	background-color: #CCFF33;
+	border-radius: 100px;
+}
+
+#game{ transition:all .8s ease;} #game:hover{background-color:#336666;}
+    
+
+
+  
+ #vindinium{
+	height: 20px;
+	width: 100px;
+	border: 2px solid black;
+	background-color: #CCFF33;
+	border-radius: 100px;
+}
+
+#vindinium{ transition:all .8s ease;} #vindinium:hover{background-color:#336666;}

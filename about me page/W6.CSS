@@ -1,0 +1,193 @@
+/*
+    Document   : W5.CSS
+    Created on : 2015-03-09 05:35 PM
+    Author     : NickSangg
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+
+   
+body {
+  background-image: url("http://vignette2.wikia.nocookie.net/citiesxl/images/3/31/Overhead_-_The_Wooded_Plains.jpg/revision/latest/scale-to-width/400?cb=20111104013444");
+}
+
+h1 {
+  margin-left: 550px;
+  color: white;
+  border: 5px solid white;
+  width: 265px;
+  border-radius:7px;
+}
+
+root {
+  display: block;
+}
+#points{
+    color:#FFFFFF;
+}
+#player {
+  height: 150px;
+  width: 150px;
+  Opacity: 100
+	border: 2px solid black;
+  margin-top: 200px;
+  position: absolute;
+}
+
+#house {
+  margin-top: -400px;
+  margin-left: 500px;
+   
+}
+
+#bullet {
+  position: absolute;
+  width: 10px;
+  
+  
+}
+#moon{
+   
+    margin-top:-400px;
+}
+h2{
+    border:2px solid white;
+    text-align: center;
+    border-width: 7px;
+    color: white;
+    width: 200px;
+    margin-left: 1020px;
+    border-radius: 10px;
+    
+}
+
+/*placeholder wall */
+#wall {
+  height: 15px;
+  width: 1;
+	/* border: 2px solid black; */
+  margin-top: 10px;
+  margin-top: 255px;
+  margin-left: -10px;
+  position: absolute;
+}
+
+#wall2 {
+  height: 15px;
+  width: 1px;
+	/* border: 2px solid black; */
+  margin-top: 10px;
+  margin-top: 255px;
+  margin-left: 900px;
+  position: absolute;
+}
+
+#wall3 {
+  height: 15px;
+  width: 1px;
+	/* border: 2px solid black; */
+  margin-top: 10px;
+  margin-top: 255px;
+  margin-left: 400px;
+  position: absolute;
+}
+
+#zombie {
+  height: 15px;
+  width: 1px;
+	/* border: 2px solid black; */
+  margin-top: 10px;
+  margin-top: 105px;
+  margin-left: 550px;
+  position: absolute;
+}
+
+#zombie2 {
+  height: 15px;
+  width: 1px;
+	/* border: 2px solid black; */
+  margin-top: 10px;
+  margin-top: 50px;
+  margin-left: 890px;
+  position: absolute;
+}
+#musicList{
+    position:absolute;
+    color:white;
+    border:5px solid white;
+    border-radius:7px;
+}
+#haloBtn{
+    position:absolute;
+}
+#gothicBtn{
+    position:absolute;
+}
+#fjordsBtn{
+    position:absolute;
+}
+#gta4Btn{
+    position:absolute;
+}
+ body {width:100%; height:100%; overflow:hidden, margin:0}
+ html {width:100%; height:100%; overflow:hidden}
+
+#stopMusic{
+    position:absolute;
+}
+#finalFantasyBtn{
+    position:absolute;
+}
+ body {width:100%; height:100%; overflow:hidden, margin:0}
+ html {width:100%; height:100%; overflow:hidden}
+#gameOver{
+    border:5px solid white;
+    border-radius:7px;
+    color:white;
+    width: 100px;
+    height: 100px;
+/*     background-color: white; */
+/*       margin-top: -500px; */
+    position:absolute;
+    visibility:hidden;
+}
+
+
+/* #zombie {
+  height: 150px;
+  width: 150px;
+  opacity: 100
+	border: 2px solid black;
+  margin-top: 200px;
+  position: absolute;
+}
+
+#zombie {
+  height: 150px;
+  width: 150px;a
+  opacity: 100
+	border: 2px solid black;
+  margin-top: 200px;
+  position: absolute;
+}
+
+#zombie2 {
+  height: 150px;
+  width: 150px;
+  opacity: 100
+	border: 2px solid black;
+  margin-top: 200px;
+  position: absolute;
+} */
+/*
+button{margin-top: 150px; margin-left:620px; height: 50px;
+	width: 100px;}    
+
+*/
+    
+    
+    
+  
+    
+    
