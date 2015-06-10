@@ -17,7 +17,7 @@
 }
 
 #navbar-link{color :black;
-    font:black
+    font:black;
 }
 #one{height:80px;width:100px;border:2px solid black;font-size:22px;font-family:verdana;background-color:#3399CC;display:inline}
 #two{height:80px;width:100px;border:2px solid black;font-size:22px;font-family:verdana;background-color:#3399CC;display:inline}
@@ -31,3 +31,95 @@ p{font-size:20px;}
 a{color:black;text-decoration:none;}
 ul li{border:5px solid black;background-color:gray;margin:5px 5px 5px 5px;border-radius:10px;font-size:20px;}
 p{border:5px solid black;background-color:gray;margin:5px 5px 5px 5px;border-radius:10px;} 
+body {background-image: url("http://previews.123rf.com/images/vtorous/vtorous0903/vtorous090300027/4501962-math-background-mathematics.jpg");
+}
+
+
+
+#CalcA{
+	height: 600px;
+	width: 500px;
+	border: 2px solid black;
+	background-color: #505050;
+	display:inline-block;
+	opacity: 0.92 ;
+	font-size: 20px;
+   
+	margin-left:400px;
+}
+
+#CalcB{
+	height: 50px;
+	width: 499px;
+	border: 2px solid black;
+	background-color: #6699FF;
+	display:inline-block;
+	font-size: 20px;
+   
+	
+}
+
+#one{
+	height: 50px;
+	width: 499px;
+	border: 2px solid black;
+	background-color: #00FF00;
+	display:inline-block;
+	font-size: 20px;
+}
+
+#key1{
+	height: 30px;
+	width: 30px;
+	border: 2px solid black;
+	background-color: #F0F0F0 ;
+	display:inline-block;
+	font-size: 20px;
+	
+	margin-left:50px;
+}
+
+#key2{
+	height: 30px;
+	width: 30px;
+	border: 2px solid black;
+	background-color: #F0F0F0 ;
+	display:inline-block;
+	font-size: 20px;
+	
+	margin-left:100px;
+}
+
+
+#key3{
+	height: 30px;
+	width: 30px;
+	border: 2px solid black;
+	background-color: #F0F0F0 ;
+	display:inline-block;
+	font-size: 20px;
+	
+	margin-left:125px;
+}
+
+#key4{
+	height: 30px;
+	width: 30px;
+	border: 2px solid black;
+	background-color: #F0F0F0 ;
+	display:inline-block;
+	font-size: 20px;
+	
+	margin-left:190px;
+}
+
+#P{
+	height: 200px;
+	width: 500px;
+	border: 2px solid black;
+	background-color: #CCFFFF ;
+	font-size: 20px;
+	
+	
+	
+}
