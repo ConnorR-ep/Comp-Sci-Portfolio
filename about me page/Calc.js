@@ -1,7 +1,7 @@
 var button = document.getElementById("submitButton");
 
 button.addEventListener("click", doMath);
-
+ 
 
 
 function doMath() {

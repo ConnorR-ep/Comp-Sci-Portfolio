@@ -9,7 +9,7 @@ Bot.prototype.botBrain = function(){
         _this = bot;
         //////* Write your bot below Here *//////
         //////* Set `myDir` in the direction you want to go and then bot.goDir is set to myDir at the bottom *////////
-        
+         
         /*                                      * 
          * This Code is global data!            *
          *                                      */

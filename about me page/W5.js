@@ -5,7 +5,7 @@
  * Time: 08:25 PM
  * To change this template use Tools | Templates.
  */
-
+ 
 //Global variables
 var haloMusic = document.getElementById("haloMusic");
 var waitTime = 3 * 60;

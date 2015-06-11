@@ -14,7 +14,7 @@ var zombie2Wait = waitTime;
 var zombie3Wait = waitTime;
 var zombie4Wait = waitTime
 var points = 0;
-
+ 
 
 //Contains all the bullets
 var bullets = [];

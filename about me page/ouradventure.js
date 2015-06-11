@@ -21,7 +21,7 @@ var imgArray= new Array('http://sensibleandsensitive.files.wordpress.com/2011/08
 'http://www.webdesign.org/img_articles/18445/portal.jpg'//two portals 20
                        );
 
-
+ 
 var i=0;
 
 
